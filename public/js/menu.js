@@ -34,6 +34,7 @@ function mudaEstadoArvore(i) {
 	}
 	document.getElementById('text').value = "";
 	geraMenuJson();
+	return false;
 }
 
 function geraMenuJson() {
@@ -76,7 +77,7 @@ function geraMenuJson() {
 
 
 		if (achou_valor || proc == '') {
-			str += ('<li class="li_menu" ><div class=div_node onclick=mudaEstadoArvore(' + i + ')>' + data.name + '</div>');
+			str += ('<li class="li_menu" ><div class=div_node onclick="return mudaEstadoArvore(' + i + ')">' + data.name + '</div>');
 			str += ('<ul class="ul_menu" >');
 			
 			str += strIn;
