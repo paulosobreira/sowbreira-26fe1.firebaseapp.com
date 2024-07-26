@@ -174,7 +174,7 @@ menu_root =
 				"value": "/misc/desktop-2005.JPG"
 			}]
 	}, {
-		"name": "Prints de jogos de velhos",
+		"name": "Capturas de talas de jogos velhos",
 		"data": [{
 			"name": "Cartuchos Mega Drive",
 			"value": "/genesis_capas/genesis.html"
@@ -227,8 +227,12 @@ menu_root =
 			"name": "TI Unifor 2018",
 			"value": "/fotos/unifor2018.jpg"
 		}, {
+			"name": "DTec Unifor 2022",
+			"value": "/fotos/DTec-2024.jpg"
+		}, {
 			"name": "TI Unifor 2023",
 			"value": "/fotos/unifor-2023.jpeg"
+
 		}]
 	}]
 }
