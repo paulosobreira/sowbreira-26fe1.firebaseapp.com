@@ -79,7 +79,7 @@ menu_root =
 			"value": "/Java/jgorilaz.zip"
 		}, {
 			"name": "JMem&oacute;ria",
-			"value": "/Java/jmemoria.zip"
+			"value": "https://github.com/paulosobreira/jmemoria/releases"
 		}, {
 			"name": "JLabirinto",
 			"value": "/Java/jmaze.zip"
@@ -174,7 +174,7 @@ menu_root =
 				"value": "/misc/desktop-2005.JPG"
 			}]
 	}, {
-		"name": "Capturas de talas de jogos velhos",
+		"name": "Telas de jogos velhos",
 		"data": [{
 			"name": "Cartuchos Mega Drive",
 			"value": "/genesis_capas/genesis.html"
