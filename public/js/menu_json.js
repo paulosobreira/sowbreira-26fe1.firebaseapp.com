@@ -61,13 +61,13 @@ menu_root =
 		"name": "Sistemas em Java",
 		"data": [{
 			"name": "GERTARME - Gerenciador de Tarefas com Alarme",
-			"value": "/gertarme/gertarme.html"
+			"value": "https://github.com/paulosobreira/gertarme"
 		}, {
 			"name": "CliGenBD - Cliente Gen&eacute;rico de Banco de Dados",
-			"value": "/cligenbd/cligenbd.html"
+			"value": "https://github.com/paulosobreira/cligenBD"
 		}, {
 			"name": "SIBURADI - Sistema de busca rápida em diret&oacute;rios",
-			"value": "/siburadi/siburadi.html"
+			"value": "https://github.com/paulosobreira/siburadi"
 		}, {
 			"name": "Meu Siburadi",
 			"value": "/siburadi/meu_siburadi.zip"
@@ -76,13 +76,13 @@ menu_root =
 		"name": "Jogos em Java",
 		"data": [{
 			"name": "JGorillaz",
-			"value": "/Java/jgorilaz.zip"
+			"value": "https://github.com/paulosobreira/jgorilaz/releases"
 		}, {
 			"name": "JMem&oacute;ria",
 			"value": "https://github.com/paulosobreira/jmemoria/releases"
 		}, {
 			"name": "JLabirinto",
-			"value": "/Java/jmaze.zip"
+			"value": "https://github.com/paulosobreira/jmaze/releases"
 		}, {
 			"name": "JTanks",
 			"value": "/Java/JTanks.zip"
@@ -174,7 +174,7 @@ menu_root =
 				"value": "/misc/desktop-2005.JPG"
 			}]
 	}, {
-		"name": "Telas de jogos velhos",
+		"name": "Jogos de velho",
 		"data": [{
 			"name": "Cartuchos Mega Drive",
 			"value": "/genesis_capas/genesis.html"
