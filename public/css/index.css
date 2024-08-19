@@ -1,7 +1,12 @@
-body {
-	background-color: #FFFFFF;
+input{
+	background-color: #353535;
 	font-family: sans-serif;
-	color: black;
+	color: white;
+}
+body {
+	background-color: #353535;
+	font-family: sans-serif;
+	color: white;
 }
 div {
 	cursor: pointer;
@@ -23,7 +28,7 @@ a {
 	border-width: 1px;
 	border-color: darkgray;
 	cursor: pointer;
-	background-color: white;
+	background-color: #353535;
 	outline: none;
 	appearance: none;
 	font-size: large;
@@ -51,7 +56,7 @@ a {
 }
 .li_menu_in_sel {
 	list-style-type: none;
-	color :  #0084B4;
+	color :  #00b4b4;
 	padding-left: 20px;
 }
 @media screen and (min-width: 600px) {
