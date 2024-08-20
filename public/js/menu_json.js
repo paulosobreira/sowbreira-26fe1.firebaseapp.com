@@ -76,16 +76,16 @@ menu_root =
 		"name": "Jogos em Java",
 		"data": [{
 			"name": "JGorillaz",
-			"value": "https://github.com/paulosobreira/jgorilaz/releases"
+			"value": "https://github.com/paulosobreira/jgorilaz"
 		}, {
 			"name": "JMem&oacute;ria",
-			"value": "https://github.com/paulosobreira/jmemoria/releases"
+			"value": "https://github.com/paulosobreira/jmemoria"
 		}, {
 			"name": "JLabirinto",
-			"value": "https://github.com/paulosobreira/jmaze/releases"
+			"value": "https://github.com/paulosobreira/jmaze"
 		}, {
 			"name": "JTanks",
-			"value": "/Java/JTanks.zip"
+			"value": "https://github.com/paulosobreira/jtanks"
 		}, {
 			"name": "JTetris",
 			"value": "/jeffgames/JTetris.jar"
