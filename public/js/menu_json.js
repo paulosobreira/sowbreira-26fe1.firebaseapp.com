@@ -197,40 +197,40 @@ menu_root =
 	}, {
 		"name": "Fotos",
 		"data": [{
-			"name": "TI Uniodonto 2004",
+			"name": "Uniodonto 2004",
 			"value": "/fotos/Uniodonto2004.jpg"
 		}, {
 			"name": "Uniodonto 2005",
 			"value": "/fotos/Uniodonto2005.jpg"
 		}, {
-			"name": "TI Uniodonto Junho/2006",
+			"name": "Uniodonto Junho 2006",
 			"value": "/fotos/uniodonto2006.jpg"
 		}, {
-			"name": "TI TBM Maio/2008",
+			"name": "TBM Maio 2008",
 			"value": "/fotos/tbm2008.JPG"
 		}, {
-			"name": "TI TBM Dezembro/2009",
+			"name": "TBM Dezembro 2009",
 			"value": "/fotos/TI_tbm2009.jpg"
 		}, {
-			"name": "TI TBM Dezembro/2010",
+			"name": "TBM Dezembro 2010",
 			"value": "/tbm2010/tbm2010.html"
 		}, {
-			"name": "TI TBM Agosto/2011",
+			"name": "TBM Agosto 2011",
 			"value": "/fotos/tbm2011.jpg"
 		}, {
-			"name": "TI TBM Dezembro 2012",
+			"name": "TBM Dezembro 2012",
 			"value": "/fotos/ti-tbm-dez-2012.jpg"
 		}, {
-			"name": "TI TBM Maio 2013",
+			"name": "TBM Maio 2013",
 			"value": "/fotos/tbm-maio-2013.jpg"
 		}, {
-			"name": "TI Unifor 2018",
+			"name": "Unifor 2018",
 			"value": "/fotos/unifor2018.jpg"
 		}, {
-			"name": "DTec Unifor 2022",
+			"name": "Unifor 2022",
 			"value": "/fotos/DTec-2024.jpg"
 		}, {
-			"name": "TI Unifor 2023",
+			"name": "Unifor 2023",
 			"value": "/fotos/unifor-2023.jpeg"
 
 		}]
