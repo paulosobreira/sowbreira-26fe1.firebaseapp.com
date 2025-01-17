@@ -13,6 +13,9 @@ menu_root =
 			}, {
 				"name": "Docker",
 				"value": "https://hub.docker.com/r/sowbreira/"
+			}, {
+				"name": "Fl Mane",
+				"value": "https://github.com/paulosobreira/f1mane/releases"
 			}]
 	}, {
 		"name": "YouTube",
@@ -93,7 +96,7 @@ menu_root =
 			"name": "JPacman",
 			"value": "/jeffgames/JPacman.jar"
 		}, {
-			"name": "F1 Mane",
+			"name": "Fl Mane",
 			"value": "/f1mane/f1mane.html"
 		}, {
 			"name": "Mesa11",
@@ -213,7 +216,7 @@ menu_root =
 			"value": "/fotos/TI_tbm2009.jpg"
 		}, {
 			"name": "TBM Dezembro 2010",
-			"value": "/tbm2010/tbm2010.html"
+			"value": "/tbm2010/1.jpg"
 		}, {
 			"name": "TBM Agosto 2011",
 			"value": "/fotos/tbm2011.jpg"
